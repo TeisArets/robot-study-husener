@@ -1,0 +1,46 @@
+
+/* Please define your custom styles here */
+
+<style>
+  /* --------------------------------------------------
+     Breite des Experiment-Containers anpassen
+     -------------------------------------------------- */
+  .container.fullscreen {
+    max-width: none !important;
+    width: 100vw !important;
+  }
+
+  .content-vertical-center.content-horizontal-center > div {
+    max-width: 80vw !important;   /* anpassen: 60–90vw */
+    margin: 0 auto !important;
+    text-align: left;             /* optional */
+  }
+
+  /* --------------------------------------------------
+     Einheitliche Bildgröße für Fragebogen / Form
+     -------------------------------------------------- */
+  /* Gilt für alle img-Tags innerhalb des Experiments */
+  .container[data-labjs-section="main"] img,
+  .labjs-component img,
+  .labjs-plugin-form img,
+  .labjs-plugin-survey img,
+  .question img {
+    display: block !important;
+    margin: 1em auto !important;
+    object-fit: contain !important;
+
+    /* Einheitliche Größe — nach Bedarf anpassen */
+    width: auto !important;          /* behält Seitenverhältnis */
+    max-width: 450px !important;     /* maximale Breite */
+    max-height: 60vh !important;     /* maximale Höhe (viewport) */
+  }
+
+  /* Optional: Wenn du EXAKT gleiche Höhe/Breite willst (nicht nur proportional)
+     → Kommentiere den Block oben aus und aktiviere stattdessen diesen:
+  .container[data-labjs-section="main"] img {
+    width: 400px !important;
+    height: 300px !important;
+    object-fit: contain !important;
+  }
+  */
+</style>
