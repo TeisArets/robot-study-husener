@@ -23,75 +23,6 @@ const study = lab.util.fromObject({
   "responses": {},
   "content": [
     {
-      "type": "lab.html.Page",
-      "items": [
-        {
-          "type": "text",
-          "title": "Herzlich willkommen! ",
-          "content": "\u003Cp\u003E\u003Cstrong\u003EHerzlich willkommen!\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\n\n\u003Cp\u003EVielen Dank für dein Interesse an dieser Studie zum Thema \u003Cstrong\u003E„Welches Geschlecht haben eigentlich Roboter?“\u003C\u002Fstrong\u003E.\u003Cbr\u003E\nBitte lies die folgenden Informationen aufmerksam durch.\u003C\u002Fp\u003E\n\n\u003Cp\u003EIn dieser Studie geht es um Gender Attribution gegenüber Robotern.\u003Cbr\u003E\nDie Studie \u003Cstrong\u003E„Welches Geschlecht haben eigentlich Roboter?“\u003C\u002Fstrong\u003E wird am Lehrstuhl für Angewandte Sozialpsychologie und Geschlechterforschung von der Fakultät für Psychologie und Sportwissenschaft der Universität Bielefeld von Hannah M. Hüsener, M.Sc., und Prof. Dr. Friederike Eyssel sowie Dr. Giulia Perugia von der Eindhoven University of Technology durchgeführt.\u003C\u002Fp\u003E\n\n\u003Cp\u003EDiese Studie nimmt erfahrungsgemäß 30 Minuten in Anspruch.\u003C\u002Fp\u003E\n\n\u003Cp\u003EWir präsentieren dir verschiedene \u003Cstrong\u003EBilder von Robotern\u003C\u002Fstrong\u003E und bitten dich, diese zu bewerten. Du sollst jeweils entscheiden, wie \u003Cstrong\u003Emaskulin, feminin oder geschlechtsneutral\u003C\u002Fstrong\u003E du jeden Roboter findest, ob du ihn als maskulin oder feminin klassifizieren würdest und wie hin und her gerissen du dich in deinen Antworten fühlst. Während dieser Aufgabe werden deine \u003Cstrong\u003EMausbewegungen\u003C\u002Fstrong\u003E aufgezeichnet, daher \u003Cstrong\u003Ebenutze bitte eine Maus oder ein Trackpad\u003C\u002Fstrong\u003E. Die Nutzung von Touchscreens ist in dieser Studie leider nicht erlaubt.  Nach den Roboter Bewertungen erheben wir demographische Informationen (Alter, Geschlecht, Muttersprache und Beschäftigungsstatus) sowie weitere Fragebögen.\u003Cbr\u003E\n\u003Cstrong\u003EDurch die Größe der Stichprobe sowie die gewählten Antwortmöglichkeiten lassen sich die Daten zu keinem Zeitpunkt einer konkreten Person zuordnen. \u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\n\n\u003Cp\u003EMit deiner Teilnahme trägst Du dazu bei, den Kenntnisstand der Forschung zu erweitern. \u003Cbr\u003E\nFür die Teilnahme kannst du 0,5 VP-Stunde über SONA erhalten. Alternativ hast du die Möglichkeit an einer Verlosung von ?? EUR BestChoice-Gutscheinen teilzunehmen.\u003Cbr\u003E\nBitte beachte, dass die SONA-ID und die E-Mail-Adresse für die Verlosung bzw. Verbuchung der VP-Stunden separat erhoben werden. Dadurch werden diese personenbezogenen Daten von den restlichen Forschungsdaten getrennt erhoben und gespeichert. Aufgrund dieser Trennung und der Größe der Stichprobe lassen sich die Forschungsdaten keiner konkreten Person zuordnen. Für die freiwillige Erhebung der E-Mail-Adresse für die Verlosung liegt eine separate Datenschutzerklärung bereit, die du vor dem Eintragen in die Liste erhältst.\u003C\u002Fp\u003E\n\n\u003Cp\u003EDurch die Teilnahme sind keine negativen Folgen oder besondere Belastungen zu erwarten. Die Untersuchung birgt keinerlei Risiken für dich.\u003Cbr\u003E\nDie Teilnahme an der Studie ist \u003Cstrong\u003Efreiwillig\u003C\u002Fstrong\u003E. Du kannst jederzeit und ohne Angabe von Gründen die Teilnahme an dieser Studie beenden, ohne dass dir daraus Nachteile entstehen. Hierfür schließe einfach das Browser-Fenster.\u003Cbr\u003E\nDie im Rahmen dieser Studie erhobenen Daten werden vertraulich behandelt. Bis zum Ende dieser Sitzung hast du die Möglichkeit, der Speicherung deiner Daten durch Abbruch der Studie zu widersprechen. Du kannst dazu einfach das Browser-Fenster schließen. Deine Daten werden dann umgehend gelöscht. Danach ist keine gezielte Datenlöschung mehr möglich, da wir deine Daten in \u003Cstrong\u003Eanonymisierter\u003C\u002Fstrong\u003E Form speichern.\u003Cbr\u003E\nDie Studienergebnisse werden in anonymisierter, zusammengefasster Form z.B. in wissenschaftlichen Zeitschriften, Vorträgen oder Lehrveranstaltungen veröffentlicht. Ggf. werden die erhobenen Forschungsdaten nach Abschluss der Studie in anonymisierter Form über ein geeignetes Datenarchiv öffentlich zugänglich gemacht. Zweck, Art und Umfang der potentiellen Nachnutzung sind derzeit noch nicht absehbar. Die Daten werden nur in einer Form veröffentlicht, die zu keinem Zeitpunkt Rückschlüsse auf einzelne \u002F konkrete Person zulässt. Mit diesem Vorgehen folgt die Studie den Empfehlungen der Deutschen Forschungsgemeinschaft zur Qualitätssicherung der Forschung.\u003C\u002Fp\u003E\n\n\u003Cp\u003EBei Fragen zur Teilnahme, Freiwilligkeit und Datennutzung melde dich gerne bei den Projektverantwortlichen: Hannah M. Hüsener, hannah.huesener@uni-bielefeld.de\u003C\u002Fp\u003E\n"
-        }
-      ],
-      "scrollTop": true,
-      "submitButtonText": "Weiter ",
-      "submitButtonPosition": "right",
-      "files": {},
-      "responses": {
-        "": ""
-      },
-      "parameters": {},
-      "messageHandlers": {},
-      "title": "Information für Teilnehmende"
-    },
-    {
-      "type": "lab.html.Page",
-      "items": [
-        {
-          "type": "text",
-          "title": "Einwilligung in die Teilnahme",
-          "content": ""
-        },
-        {
-          "required": true,
-          "type": "html",
-          "content": "Ich habe die Teilnahmeinformation der Studie \u003Cstrong\u003E„Welches Geschlecht haben eigentlich Roboter?“\u003C\u002Fstrong\u003E zur Kenntnis genommen. Ich bin ausreichend informiert worden und hatte die Möglichkeit vor Weiterführung der Studie Fragen zu stellen.\u003Cbr\u003E\nMir ist bewusst, dass meine Teilnahme an der Studie freiwillig ist und ich bei einer Verweigerung meiner Einwilligung keinerlei Nachteile erleide. \n\n\u003Cp\u003E\n  Eine Kopie der Informationsschrift, dieser Einwilligungserklärung sowie der\n  Datenschutzerklärung zur Erhebung der SONA-ID und der E-Mail-Adresse konnte\n  ich\n  \u003Ca href=\"${ this.files['Datenschutzvorlage_StudieGender.pdf'] }\"\n     target=\"_blank\"\n     rel=\"noopener noreferrer\"\u003E\n    hier öffnen und herunterladen\n  \u003C\u002Fa\u003E\n  und habe diese Unterlagen somit erhalten.\n\u003C\u002Fp\u003E",
-          "name": ""
-        },
-        {
-          "required": true,
-          "type": "radio",
-          "label": "Ich habe die dort gemachten Angaben zur Kenntnis genommen und willige hiermit in die Studienteilnahme und die damit verbundene Verarbeitung meiner Daten ein.",
-          "options": [
-            {
-              "label": " Ja, ich möchte an der Studie teilnehmen.",
-              "coding": "yes"
-            },
-            {
-              "label": " Nein, ich möchte nicht an der Studie teilnehmen.",
-              "coding": "no"
-            }
-          ],
-          "name": "consent"
-        },
-        {
-          "required": true,
-          "type": "text",
-          "content": "\u003Cstrong\u003EWir danken Dir für Deine Mitwirkung und Dein Vertrauen!\u003Cstrong\u003E"
-        }
-      ],
-      "scrollTop": true,
-      "submitButtonText": "Weiter",
-      "submitButtonPosition": "right",
-      "files": {
-        "Datenschutzvorlage_StudieGender.pdf": "embedded\u002F0169711a5a2aaa764651d93677eb333bd3e1b58b4fcfcd4dbd080216ece852e8.pdf"
-      },
-      "responses": {
-        "": ""
-      },
-      "parameters": {},
-      "messageHandlers": {},
-      "title": "consent"
-    },
-    {
       "type": "lab.flow.Sequence",
       "files": {},
       "responses": {
@@ -101,6 +32,14 @@ const study = lab.util.fromObject({
       "messageHandlers": {},
       "title": "Main study",
       "shuffle": true,
+      "plugins": [
+        {
+          "type": "fullscreen",
+          "message": "",
+          "hint": "",
+          "path": "lab.plugins.Fullscreen"
+        }
+      ],
       "content": [
         {
           "type": "lab.flow.Sequence",
@@ -318,184 +257,307 @@ const study = lab.util.fromObject({
               "plugins": [],
               "shuffleGroups": [],
               "template": {
-                "type": "lab.html.Page",
-                "items": [
-                  {
-                    "required": true,
-                    "type": "image",
-                    "src": "${ this.files[this.parameters.Pictures_SR] }",
-                    "name": ""
-                  },
-                  {
-                    "required": true,
-                    "type": "likert",
-                    "items": [
-                      {
-                        "label": "Maskulin",
-                        "coding": "maskulin"
-                      },
-                      {
-                        "label": "Feminin",
-                        "coding": "feminin"
-                      },
-                      {
-                        "label": "Geschlechtsneutral",
-                        "coding": "geschlechtsneutral"
-                      }
-                    ],
-                    "width": "7",
-                    "anchors": [
-                      "Stimme überhaupt nicht zu",
-                      "Stimme nicht zu",
-                      "Stimme eher nicht zu",
-                      "Neutral",
-                      "Stimme eher zu",
-                      "Stimme zu",
-                      "Stimme völlig zu"
-                    ],
-                    "label": "\u003Cp\u003EWie würdest du den Roboter auf diesem Bild beschreiben?\u003C\u002Fp\u003E",
-                    "help": "Bitte bewerte den folgenden Roboter auf einer Skala von 1 (Stimme überhaupt nicht zu) bis 7 (Stimme völlig zu).",
-                    "name": "BewertungRoboter"
-                  },
-                  {
-                    "required": true,
-                    "type": "radio",
-                    "label": "\u003Cp\u003EWenn du nur an die femininen Aspekte des Roboters denkst und die maskulinen ignorierst, wie feminin nimmst du diesen Roboter wahr? \u003C\u002Fp\u003E",
-                    "options": [
-                      {
-                        "label": "Gar nicht feminin",
-                        "coding": "1"
-                      },
-                      {
-                        "label": "Nicht feminin",
-                        "coding": "2"
-                      },
-                      {
-                        "label": "Eher nicht feminin",
-                        "coding": "3"
-                      },
-                      {
-                        "label": "Neutral",
-                        "coding": "4"
-                      },
-                      {
-                        "label": "Eher feminin",
-                        "coding": "5"
-                      },
-                      {
-                        "label": "Feminin",
-                        "coding": "6"
-                      },
-                      {
-                        "label": "Völlig feminin",
-                        "coding": "7"
-                      }
-                    ],
-                    "name": "ObjAmb_fem"
-                  },
-                  {
-                    "required": true,
-                    "type": "radio",
-                    "label": "\u003Cp\u003EWenn du nur an die maskulinen Aspekte des Roboters denkst und die femininen ignorierst, wie maskulin nimmst du diesen Roboter wahr? \u003C\u002Fp\u003E",
-                    "options": [
-                      {
-                        "label": "Gar nicht maskulin",
-                        "coding": "1"
-                      },
-                      {
-                        "label": "Nicht maskulin",
-                        "coding": "2"
-                      },
-                      {
-                        "label": "Eher nicht maskulin",
-                        "coding": "3"
-                      },
-                      {
-                        "label": "Neutral",
-                        "coding": "4"
-                      },
-                      {
-                        "label": "Eher maskulin",
-                        "coding": "5"
-                      },
-                      {
-                        "label": "Maskulin",
-                        "coding": "6"
-                      },
-                      {
-                        "label": "Völlig maskulin",
-                        "coding": "7"
-                      }
-                    ],
-                    "name": "ObjAmb_mask"
-                  },
-                  {
-                    "required": true,
-                    "type": "radio",
-                    "label": "\u003Cp\u003EIn wie weit hast du gemischte Gedanken und Gefühle zum Geschlecht des Roboters?\u003C\u002Fp\u003E",
-                    "options": [
-                      {
-                        "label": "Überhaupt keine gemischten Gedanken und Gefühle",
-                        "coding": "1"
-                      },
-                      {
-                        "label": "Keine gemischten Gedanken und Gefühle",
-                        "coding": "2"
-                      },
-                      {
-                        "label": "Eher keine gemischten Gedanken und Gefühle",
-                        "coding": "3"
-                      },
-                      {
-                        "label": "Neutral",
-                        "coding": "4"
-                      },
-                      {
-                        "label": "Eher gemischte Gedanken und Gefühle",
-                        "coding": "5"
-                      },
-                      {
-                        "label": "Gemischte Gedanken und Gefühle",
-                        "coding": "6"
-                      },
-                      {
-                        "label": "Völlig gemischte Gedanken und Gefühle",
-                        "coding": "7"
-                      }
-                    ],
-                    "name": "SubjAmb"
-                  },
-                  {
-                    "required": true,
-                    "type": "radio",
-                    "label": "\u003Cp\u003EWie sicher bist du dir mit deiner Beurteilung?\u003C\u002Fp\u003E",
-                    "options": [
-                      {
-                        "label": "sehr sicher",
-                        "coding": "1"
-                      },
-                      {
-                        "label": "sicher ",
-                        "coding": "2"
-                      },
-                      {
-                        "label": "unsicher",
-                        "coding": "3"
-                      }
-                    ],
-                    "name": "ambiguity"
-                  }
-                ],
-                "scrollTop": true,
-                "submitButtonText": "Weiter →",
-                "submitButtonPosition": "right",
+                "type": "lab.flow.Sequence",
                 "files": {},
                 "responses": {
                   "": ""
                 },
                 "parameters": {},
                 "messageHandlers": {},
-                "title": "Page"
+                "title": "Sequence: Bewertung eines Roboters",
+                "content": [
+                  {
+                    "type": "lab.flow.Sequence",
+                    "files": {},
+                    "responses": {
+                      "": ""
+                    },
+                    "parameters": {},
+                    "messageHandlers": {},
+                    "title": "Sequence: Geschlechtsitems randomisiert",
+                    "shuffle": true,
+                    "content": [
+                      {
+                        "type": "lab.html.Page",
+                        "items": [
+                          {
+                            "required": true,
+                            "type": "image",
+                            "src": "${ this.files[this.parameters.Pictures_SR] }",
+                            "name": ""
+                          },
+                          {
+                            "required": true,
+                            "type": "likert",
+                            "items": [
+                              {
+                                "label": "Feminin",
+                                "coding": "Feminin"
+                              }
+                            ],
+                            "width": "7",
+                            "anchors": [
+                              "Stimme überhaupt nicht zu",
+                              "Stimme nicht zu",
+                              "Stimme eher nicht zu",
+                              "Neutral",
+                              "Stimme eher zu",
+                              "Stimme zu",
+                              "Stimme völlig zu"
+                            ],
+                            "label": "Wie würdest du den Roboter auf diesem Bild beschreiben?",
+                            "name": "Description_Robot"
+                          }
+                        ],
+                        "scrollTop": true,
+                        "submitButtonText": "Weiter →",
+                        "submitButtonPosition": "right",
+                        "files": {},
+                        "responses": {
+                          "": ""
+                        },
+                        "parameters": {},
+                        "messageHandlers": {},
+                        "title": "Feminin"
+                      },
+                      {
+                        "type": "lab.html.Page",
+                        "items": [
+                          {
+                            "required": true,
+                            "type": "image",
+                            "src": "${ this.files[this.parameters.Pictures_SR] }",
+                            "name": ""
+                          },
+                          {
+                            "required": true,
+                            "type": "likert",
+                            "items": [
+                              {
+                                "label": "Maskulin",
+                                "coding": "Maskulin"
+                              }
+                            ],
+                            "width": "7",
+                            "anchors": [
+                              "Stimme überhaupt nicht zu",
+                              "Stimme nicht zu",
+                              "Stimme eher nicht zu",
+                              "Neutral",
+                              "Stimme eher zu",
+                              "Stimme zu",
+                              "Stimme völlig zu"
+                            ],
+                            "label": "Wie würdest du den Roboter auf diesem Bild beschreiben?",
+                            "name": "Description_Robot"
+                          }
+                        ],
+                        "scrollTop": true,
+                        "submitButtonText": "Weiter →",
+                        "submitButtonPosition": "right",
+                        "files": {},
+                        "responses": {
+                          "": ""
+                        },
+                        "parameters": {},
+                        "messageHandlers": {},
+                        "title": "Maskulin"
+                      },
+                      {
+                        "type": "lab.html.Page",
+                        "items": [
+                          {
+                            "required": true,
+                            "type": "image",
+                            "src": "${ this.files[this.parameters.Pictures_SR] }",
+                            "name": ""
+                          },
+                          {
+                            "required": true,
+                            "type": "likert",
+                            "items": [
+                              {
+                                "label": "Geschlechtsneutral",
+                                "coding": "Geschlechtsneutral"
+                              }
+                            ],
+                            "width": "7",
+                            "anchors": [
+                              "Stimme überhaupt nicht zu",
+                              "Stimme nicht zu",
+                              "Stimme eher nicht zu",
+                              "Neutral",
+                              "Stimme eher zu",
+                              "Stimme zu",
+                              "Stimme völlig zu"
+                            ],
+                            "label": "Wie würdest du den Roboter auf diesem Bild beschreiben?",
+                            "name": "Description_Robot"
+                          }
+                        ],
+                        "scrollTop": true,
+                        "submitButtonText": "Weiter→",
+                        "submitButtonPosition": "right",
+                        "files": {},
+                        "responses": {
+                          "": ""
+                        },
+                        "parameters": {},
+                        "messageHandlers": {},
+                        "title": "Geschlechtsneutral"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "lab.html.Page",
+                    "items": [
+                      {
+                        "required": true,
+                        "type": "image",
+                        "src": "${ this.files[this.parameters.Pictures_SR] }",
+                        "name": ""
+                      },
+                      {
+                        "required": true,
+                        "type": "radio",
+                        "label": "\u003Cp\u003EWenn du nur an die \u003Cstrong\u003Efemininen\u003C\u002Fstrong\u003E Aspekte des Roboters denkst und die maskulinen ignorierst, \u003Cstrong\u003Ewie feminin nimmst du diesen Roboter wahr\u003C\u002Fstrong\u003E? \u003C\u002Fp\u003E",
+                        "options": [
+                          {
+                            "label": "Gar nicht feminin",
+                            "coding": "1"
+                          },
+                          {
+                            "label": "Nicht feminin",
+                            "coding": "2"
+                          },
+                          {
+                            "label": "Eher nicht feminin",
+                            "coding": "3"
+                          },
+                          {
+                            "label": "Neutral",
+                            "coding": "4"
+                          },
+                          {
+                            "label": "Eher feminin",
+                            "coding": "5"
+                          },
+                          {
+                            "label": "Feminin",
+                            "coding": "6"
+                          },
+                          {
+                            "label": "Völlig feminin",
+                            "coding": "7"
+                          }
+                        ],
+                        "name": "ObjAmb_fem"
+                      },
+                      {
+                        "required": true,
+                        "type": "radio",
+                        "label": "\u003Cp\u003EWenn du nur an die \u003Cstrong\u003Emaskulinen\u003C\u002Fstrong\u003E Aspekte des Roboters denkst und die femininen ignorierst, \u003Cstrong\u003Ewie maskulin nimmst du diesen Roboter wahr\u003C\u002Fstrong\u003E? \u003C\u002Fp\u003E",
+                        "options": [
+                          {
+                            "label": "Gar nicht maskulin",
+                            "coding": "1"
+                          },
+                          {
+                            "label": "Nicht maskulin",
+                            "coding": "2"
+                          },
+                          {
+                            "label": "Eher nicht maskulin",
+                            "coding": "3"
+                          },
+                          {
+                            "label": "Neutral",
+                            "coding": "4"
+                          },
+                          {
+                            "label": "Eher maskulin",
+                            "coding": "5"
+                          },
+                          {
+                            "label": "Maskulin",
+                            "coding": "6"
+                          },
+                          {
+                            "label": "Völlig maskulin",
+                            "coding": "7"
+                          }
+                        ],
+                        "name": "ObjAmb_mask"
+                      },
+                      {
+                        "required": true,
+                        "type": "radio",
+                        "label": "\u003Cp\u003EIn wie weit hast du \u003Cstrong\u003Egemischte Gedanken und Gefühle\u003C\u002Fstrong\u003E zum Geschlecht des Roboters?\u003C\u002Fp\u003E",
+                        "options": [
+                          {
+                            "label": "Überhaupt keine gemischten Gedanken und Gefühle",
+                            "coding": "1"
+                          },
+                          {
+                            "label": "Keine gemischten Gedanken und Gefühle",
+                            "coding": "2"
+                          },
+                          {
+                            "label": "Eher keine gemischten Gedanken und Gefühle",
+                            "coding": "3"
+                          },
+                          {
+                            "label": "Neutral",
+                            "coding": "4"
+                          },
+                          {
+                            "label": "Eher gemischte Gedanken und Gefühle",
+                            "coding": "5"
+                          },
+                          {
+                            "label": "Gemischte Gedanken und Gefühle",
+                            "coding": "6"
+                          },
+                          {
+                            "label": "Völlig gemischte Gedanken und Gefühle",
+                            "coding": "7"
+                          }
+                        ],
+                        "name": "SubjAmb"
+                      },
+                      {
+                        "required": true,
+                        "type": "radio",
+                        "label": "\u003Cp\u003EWie \u003Cstrong\u003Esicher\u003C\u002Fstrong\u003E bist du dir mit deiner Beurteilung?\u003C\u002Fp\u003E",
+                        "options": [
+                          {
+                            "label": "Sehr sicher",
+                            "coding": "1"
+                          },
+                          {
+                            "label": "Sicher ",
+                            "coding": "2"
+                          },
+                          {
+                            "label": "Unsicher",
+                            "coding": "3"
+                          }
+                        ],
+                        "name": "ambiguity"
+                      }
+                    ],
+                    "scrollTop": true,
+                    "submitButtonText": "Weiter →",
+                    "submitButtonPosition": "right",
+                    "files": {},
+                    "responses": {
+                      "": ""
+                    },
+                    "parameters": {},
+                    "messageHandlers": {},
+                    "title": "SR_restlicheItems"
+                  }
+                ]
               }
             }
           ]
@@ -520,7 +582,7 @@ const study = lab.util.fromObject({
                 {
                   "type": "text",
                   "title": "",
-                  "content": "In dieser Studie zeigen wir dir verschiedene Roboter Bilder. Wir bitten dich zu diesen Bildern Entscheidungen zu treffen.\u003Cbr\u003E\nAuf dem Bildschirm wirst du gleich ein Bild sehen. In den oberen Ecken befinden sich die Antwortkategorien \u003Cstrong\u003E‘maskulin‘ und ‘feminin‘\u003C\u002Fstrong\u003E. Du sollst dich für eine Antwortkategorie entscheiden, indem du auf eine der beiden Antwortschaltflächen am oberen Rand des Bildschirms klickst. \u003Cbr\u003E\nWir zeichnen die Geschwindigkeit und Genauigkeit deiner Antworten auf, daher antworte bitte so \u003Cstrong\u003Eschnell\u003C\u002Fstrong\u003E (innerhalb von 5 Sekunden) und so genau wie möglich, auch wenn einige Bilder für dich schwer zu kategorisieren sein mögen. Um deine Antwort zu beschleunigen, solltest du den \u003Cstrong\u003ECursor sofort nach der Anzeige des Bildes bewegen\u003C\u002Fstrong\u003E (innerhalb von 1\u002F2 Sekunden), auch wenn du dich noch nicht vollständig für eine Antwort entschieden hast. Es ist jedoch gleichzeitig wichtig, dass du den Cursor erst dann zu bewegen beginnst, wenn ein neues Bild auf dem Bildschirm erscheint. \u003Cstrong\u003EBewege deine Maus also nicht, während du auf die Anzeige des nächsten Bildes wartest.\u003C\u002Fstrong\u003E\u003Cbr\u003E\nWir beginnen mit einer Reihe von 5 Übungsbildern, um dich mit der Aufgabe vertraut zu machen.  Sollte deine Reaktion in diesen Übungsdurchläufen zu langsam sein, erscheint eine Meldung, die dich darauf hinweist, dass du versuchen solltest, die Maus früher zu bewegen. Nach der Übung gehst du automatisch zur eigentlichen Studie über.\n"
+                  "content": "In dieser Studie zeigen wir dir verschiedene Roboter Bilder. Wir bitten dich zu diesen Bildern Entscheidungen zu treffen.\u003Cbr\u003E\nAuf dem Bildschirm wirst Du gleich ein Bild sehen. In den oberen Ecken befinden sich die Antwortkategorien \u003Cstrong\u003E‘maskulin‘ und ‘feminin‘\u003C\u002Fstrong\u003E. Du sollst dich für eine Antwortkategorie entscheiden, indem Du auf eine der beiden Antwortschaltflächen am oberen Rand des Bildschirms klickst. \u003Cbr\u003E\nWir zeichnen die Geschwindigkeit und Genauigkeit deiner Antworten auf, daher antworte bitte so \u003Cstrong\u003Eschnell\u003C\u002Fstrong\u003E (innerhalb von 5 Sekunden) und so genau wie möglich, auch wenn einige Bilder für dich schwer zu kategorisieren sein mögen. Um deine Antwort zu beschleunigen, solltest Du den \u003Cstrong\u003ECursor sofort nach der Anzeige des Bildes bewegen\u003C\u002Fstrong\u003E (innerhalb von 1\u002F2 Sekunden), auch wenn Du dich noch nicht vollständig für eine Antwort entschieden hast. Es ist jedoch gleichzeitig wichtig, dass Du den Cursor erst dann zu bewegen beginnst, wenn ein neues Bild auf dem Bildschirm erscheint. \u003Cstrong\u003EBewege deine Maus also nicht, während Du auf die Anzeige des nächsten Bildes wartest.\u003C\u002Fstrong\u003E\u003Cbr\u003E\nWir beginnen mit einer Reihe von 5 Übungsbildern, um dich mit der Aufgabe vertraut zu machen.  Sollte deine Reaktion in diesen Übungsdurchläufen zu langsam sein, erscheint eine Meldung, die dich darauf hinweist, dass Du versuchen solltest, die Maus früher zu bewegen. Nach der Übung gehst Du automatisch zur eigentlichen Studie über.\n"
                 }
               ],
               "scrollTop": true,
@@ -652,12 +714,12 @@ const study = lab.util.fromObject({
                                   "left": 0,
                                   "top": 88,
                                   "angle": 0,
-                                  "width": 65.8,
+                                  "width": 91.88,
                                   "height": 36.16,
                                   "stroke": null,
                                   "strokeWidth": 1,
                                   "fill": "black",
-                                  "text": "Next",
+                                  "text": "Weiter",
                                   "fontStyle": "normal",
                                   "fontWeight": "normal",
                                   "fontSize": 32,
@@ -760,7 +822,7 @@ const study = lab.util.fromObject({
                                   "stroke": null,
                                   "strokeWidth": 1,
                                   "fill": "rgba(0, 0, 0, 0.2)",
-                                  "label": "Positive"
+                                  "label": "left"
                                 },
                                 {
                                   "type": "aoi",
@@ -772,7 +834,7 @@ const study = lab.util.fromObject({
                                   "stroke": null,
                                   "strokeWidth": 1,
                                   "fill": "rgba(0, 0, 0, 0.2)",
-                                  "label": "Negative"
+                                  "label": "right"
                                 },
                                 {
                                   "type": "image",
@@ -807,8 +869,8 @@ const study = lab.util.fromObject({
                                 "käfer_Univalent_Neg.jpg": "embedded\u002F4bb12f305c53f64274af0f6bd019cbd508270d2acec784923c1d4ee804632ca9.jpg"
                               },
                               "responses": {
-                                "click @Positive": "Positive",
-                                "click @Negative": "Negative",
+                                "click @left": "${ this.parameters.left_label }",
+                                "click @right": "${ this.parameters.right_label }",
                                 "undefined": ""
                               },
                               "parameters": {},
@@ -1078,12 +1140,12 @@ const study = lab.util.fromObject({
                                   "left": 0,
                                   "top": 88,
                                   "angle": 0,
-                                  "width": 65.8,
+                                  "width": 91.88,
                                   "height": 36.16,
                                   "stroke": null,
                                   "strokeWidth": 1,
                                   "fill": "black",
-                                  "text": "Next",
+                                  "text": "Weiter",
                                   "fontStyle": "normal",
                                   "fontWeight": "normal",
                                   "fontSize": 32,
@@ -1186,11 +1248,11 @@ const study = lab.util.fromObject({
                                   "stroke": null,
                                   "strokeWidth": 1,
                                   "fill": "rgba(0, 0, 0, 0.2)",
-                                  "label": "Positive"
+                                  "label": "left"
                                 },
                                 {
                                   "type": "aoi",
-                                  "left": 289,
+                                  "left": 287,
                                   "top": -260,
                                   "angle": 0,
                                   "width": 208.27,
@@ -1198,7 +1260,7 @@ const study = lab.util.fromObject({
                                   "stroke": null,
                                   "strokeWidth": 1,
                                   "fill": "rgba(0, 0, 0, 0.2)",
-                                  "label": "Negative"
+                                  "label": "right"
                                 },
                                 {
                                   "type": "image",
@@ -1233,8 +1295,8 @@ const study = lab.util.fromObject({
                                 "käfer_Univalent_Neg.jpg": "embedded\u002F4bb12f305c53f64274af0f6bd019cbd508270d2acec784923c1d4ee804632ca9.jpg"
                               },
                               "responses": {
-                                "click @Positive": "Positive",
-                                "click @Negative": "Negative",
+                                "click @left": "${ this.parameters.left_label }",
+                                "click @right": "${ this.parameters.right_label }",
                                 "undefined": ""
                               },
                               "parameters": {},
@@ -1259,715 +1321,6 @@ const study = lab.util.fromObject({
           ]
         }
       ]
-    },
-    {
-      "type": "lab.flow.Sequence",
-      "files": {},
-      "responses": {
-        "": ""
-      },
-      "parameters": {},
-      "messageHandlers": {},
-      "title": "Selbstreport Skalen",
-      "content": [
-        {
-          "type": "lab.html.Page",
-          "items": [
-            {
-              "type": "text",
-              "title": "Weitere Skalen",
-              "content": "Die Bewertung der verschiedenen Bilder ist nun abgeschlossen. Anschließend möchten wir noch Informationen zu deiner Demographie einholen und andere für das Thema relevante Einstellungen erfassen."
-            }
-          ],
-          "scrollTop": true,
-          "submitButtonText": "Weiter →",
-          "submitButtonPosition": "right",
-          "files": {},
-          "responses": {
-            "": ""
-          },
-          "parameters": {},
-          "messageHandlers": {},
-          "title": "Instruktion weitere Skalen"
-        },
-        {
-          "type": "lab.html.Page",
-          "items": [
-            {
-              "required": true,
-              "type": "radio",
-              "label": "Welches Geschlecht hast du? ",
-              "options": [
-                {
-                  "label": "Weiblich",
-                  "coding": "w "
-                },
-                {
-                  "label": "Männlich ",
-                  "coding": "m"
-                },
-                {
-                  "label": "Divers",
-                  "coding": "d"
-                },
-                {
-                  "label": "Keine Angabe",
-                  "coding": "k.A."
-                }
-              ],
-              "name": "Geschlecht"
-            },
-            {
-              "required": true,
-              "type": "input",
-              "label": "Wie alt bist du?",
-              "name": "alter"
-            },
-            {
-              "required": true,
-              "type": "radio",
-              "label": "Bitte gib an, ob du Linkshänder, Rechtshänder oder beidhändig (beide Hände gleichermaßen) bist.",
-              "options": [
-                {
-                  "label": "Linkshänder",
-                  "coding": "1"
-                },
-                {
-                  "label": "Rechtshänder",
-                  "coding": "2"
-                },
-                {
-                  "label": "Beidhändig",
-                  "coding": "3"
-                }
-              ],
-              "name": "Händigkeit"
-            },
-            {
-              "required": true,
-              "type": "radio",
-              "label": "Bitte gib deinen aktuellen Beschäftigungsstatus an: ",
-              "options": [
-                {
-                  "label": "Schüler*in ",
-                  "coding": "Schüler*in"
-                },
-                {
-                  "label": "Student*in ",
-                  "coding": "Student*in"
-                },
-                {
-                  "label": "Angestellte*r ",
-                  "coding": "Angestellte*r"
-                },
-                {
-                  "label": "Selbstständig ",
-                  "coding": "Selbstständig"
-                },
-                {
-                  "label": "Arbeitslos ",
-                  "coding": "Arbeitslos"
-                },
-                {
-                  "label": "In Rente ",
-                  "coding": "in Rente"
-                },
-                {
-                  "label": "Anderer ",
-                  "coding": "anderer"
-                }
-              ],
-              "name": "Beschäftigungsstatus"
-            },
-            {
-              "required": true,
-              "type": "radio",
-              "label": "Was ist deine Muttersprache? (E) ",
-              "options": [
-                {
-                  "label": "Deutsch ",
-                  "coding": "1"
-                },
-                {
-                  "label": "eine andere Sprache, aber ich spreche fließend Deutsch. ",
-                  "coding": "2"
-                },
-                {
-                  "label": "eine andere Sprache und ich spreche nicht sehr gut Deutsch.",
-                  "coding": "3"
-                }
-              ],
-              "name": "Muttersprache"
-            }
-          ],
-          "scrollTop": true,
-          "submitButtonText": "Weiter",
-          "submitButtonPosition": "right",
-          "files": {},
-          "responses": {
-            "": ""
-          },
-          "parameters": {},
-          "messageHandlers": {},
-          "title": "Demographische Daten"
-        },
-        {
-          "type": "lab.html.Page",
-          "items": [
-            {
-              "required": true,
-              "type": "likert",
-              "items": [
-                {
-                  "label": "1.\tGeschlechtsorgane müssen nicht unbedingt mit der Geschlechtsidentität übereinstimmen.",
-                  "coding": "01"
-                },
-                {
-                  "label": "2.\tGeschlechtsidentität ist nicht unbedingt durch die Geschlechtsorgane definiert.",
-                  "coding": "02"
-                },
-                {
-                  "label": "3.\tGeschlechtsidentität bezieht sich auf eine tiefe Überzeugung. ",
-                  "coding": "03"
-                },
-                {
-                  "label": "4.\tJede Person definiert ihr Geschlecht anhand ihres eigenen Empfindens. ",
-                  "coding": "04"
-                },
-                {
-                  "label": "5.\tGeschlecht ist relevant, um eine Person zu definieren. ",
-                  "coding": "05"
-                },
-                {
-                  "label": "6.\tGeschlecht ist keine relevante Kategorisierung. ",
-                  "coding": "06"
-                },
-                {
-                  "label": "7.\tGeschlechtsidentität beschränkt sich auf die beiden Kategorien Männer und Frauen.",
-                  "coding": "07"
-                },
-                {
-                  "label": "8.\tEs gibt mehr als zwei Geschlechtskategorien.",
-                  "coding": "08"
-                },
-                {
-                  "label": "9.\tEs ist unmöglich, alle existierenden Geschlechtsidentitäten aufzulisten\u002Fzu benennen. ",
-                  "coding": "09"
-                },
-                {
-                  "label": "10.\tEs gibt eine große Anzahl von Geschlechtskategorien.",
-                  "coding": "10"
-                },
-                {
-                  "label": "11.\tEs ist möglich, sich mit mehreren Geschlechtskategorien gleichzeitig zu identifizieren. ",
-                  "coding": "11"
-                },
-                {
-                  "label": "12.\tZu einer Geschlechtskategorie zu gehören schließt nicht unbedingt die gleichzeitige Zugehörigkeit zu einer anderen aus. ",
-                  "coding": "12"
-                },
-                {
-                  "label": "13.\tEs ist möglich, sich nicht mit einem Geschlecht zu identifizieren. ",
-                  "coding": "13"
-                },
-                {
-                  "label": "14.\tEs ist möglich, sich mit keiner der Geschlechtskategorien zu identifizieren. ",
-                  "coding": "14"
-                },
-                {
-                  "label": "15.\tDie Geschlechtsidentität einer Person kann sich im Laufe ihres Lebens verändern. ",
-                  "coding": "15"
-                },
-                {
-                  "label": "16.\tDie Geschlechtsidentität einer Person ist für alle Zeit festgelegt. ",
-                  "coding": "16"
-                },
-                {
-                  "label": "17.\tDie Geschlechtsidentität einer Person kann sich abhängig von ihrem momentanen Empfinden verändern.",
-                  "coding": "17"
-                },
-                {
-                  "label": "18.\tDas Empfinden einer Person zu einem gegebenen Zeitpunkt kann beeinflussen, mit welchem Geschlecht sie sich identifiziert.",
-                  "coding": "18"
-                }
-              ],
-              "width": "7",
-              "anchors": [
-                "Stimme gar nicht zu",
-                "Stimme nicht zu",
-                "Stimme eher nicht zu",
-                "Neutral",
-                "Stimme eher zu",
-                "Stimme zu",
-                "Stimme völlig zu"
-              ],
-              "label": "Gib bitte an, wie stark du den folgenden Aussagen zustimmst.",
-              "name": "ONBG"
-            }
-          ],
-          "scrollTop": true,
-          "submitButtonText": "Weiter",
-          "submitButtonPosition": "right",
-          "files": {},
-          "responses": {
-            "": ""
-          },
-          "parameters": {},
-          "messageHandlers": {},
-          "title": "ONBG"
-        },
-        {
-          "type": "lab.html.Page",
-          "items": [
-            {
-              "required": true,
-              "type": "likert",
-              "items": [
-                {
-                  "label": "1. Meine Gedanken sind häufig widersprüchlich.",
-                  "coding": "01"
-                },
-                {
-                  "label": "2. Bezüglich vielen Themen empfinde\u002Ferlebe ich Konfliktzustände.",
-                  "coding": "02"
-                },
-                {
-                  "label": "3. Meistens sehe ich bei Dingen sowohl die positive als auch die negative Seite.",
-                  "coding": "03"
-                },
-                {
-                  "label": "4. Oft fühle ich mich, als würden beide Seiten eines Themas an mir ziehen.",
-                  "coding": "04"
-                },
-                {
-                  "label": "5. Oft stelle ich fest, dass es für alles Pros und Cons gibt.",
-                  "coding": "05"
-                },
-                {
-                  "label": "6. Oft fühle ich mich zwischen zwei Seiten eines Themas hin- und hergerissen.",
-                  "coding": "06"
-                },
-                {
-                  "label": "7. Häufig stimmen meine Gefühle und Gedanken nicht notwendigerweise miteinander überein.",
-                  "coding": "07"
-                },
-                {
-                  "label": "8. Manchmal fühlt es sich fast so an, als würde ich körperlich von Seite zu Seite wechseln, wenn ich über ein Thema nachdenke.",
-                  "coding": "08"
-                },
-                {
-                  "label": "9. Meine Gefühle sind oft gleichzeitig positiv und negativ.",
-                  "coding": "09"
-                },
-                {
-                  "label": "10. Wenn ich an ein Thema denke, erlebe ich oft einen Konflikt zwischen meinen Gedanken und Gefühlen.",
-                  "coding": "10"
-                }
-              ],
-              "width": "7",
-              "anchors": [
-                "Stimme gar nicht zu",
-                "Stimme nicht zu",
-                "Stimme eher nicht zu",
-                "Neutral",
-                "Stimme eher zu",
-                "Stimme zu",
-                "Stimme völlig zu"
-              ],
-              "label": "Gib bitte an, wie stark du den folgenden Aussagen zustimmst.",
-              "help": "",
-              "name": "TAS"
-            }
-          ],
-          "scrollTop": true,
-          "submitButtonText": "Weiter",
-          "submitButtonPosition": "right",
-          "files": {},
-          "responses": {
-            "": ""
-          },
-          "parameters": {},
-          "messageHandlers": {},
-          "title": "TAS"
-        },
-        {
-          "type": "lab.html.Page",
-          "items": [
-            {
-              "required": true,
-              "type": "likert",
-              "items": [
-                {
-                  "label": "1.\tKünstliche Intelligenz (KI)",
-                  "coding": "KI"
-                },
-                {
-                  "label": "2.\tRoboter",
-                  "coding": "robots"
-                },
-                {
-                  "label": "3.\tScience-Fiction",
-                  "coding": "science_fiction"
-                }
-              ],
-              "width": "7",
-              "anchors": [
-                "Überhaupt nicht vertraut",
-                "Nicht vertraut",
-                "Eher nicht vertraut",
-                "Neutral",
-                "Eher vertraut",
-                "Vertraut",
-                "Vollkommen vertraut"
-              ],
-              "label": "Bitte bewerte, wie vertraut du mit den folgenden Themen bist, auf einer Skala von 1 (überhaupt nicht) bis 7 (sehr).",
-              "name": "Familiarity"
-            }
-          ],
-          "scrollTop": true,
-          "submitButtonText": "Weiter",
-          "submitButtonPosition": "right",
-          "files": {},
-          "responses": {
-            "": ""
-          },
-          "parameters": {},
-          "messageHandlers": {},
-          "title": "Familiarity with Technology"
-        },
-        {
-          "type": "lab.html.Page",
-          "items": [
-            {
-              "required": true,
-              "type": "likert",
-              "items": [
-                {
-                  "label": "1.\tManchmal werfe ich Müll einfach in die Landschaft oder auf die Straße. ",
-                  "coding": "01"
-                },
-                {
-                  "label": "2.\tEigene Fehler gebe ich stets offen zu und ertrage gelassen etwaige negative Konsequenzen. ",
-                  "coding": "02"
-                },
-                {
-                  "label": "3.\tIm Straßenverkehr nehme ich stets Rücksicht auf die anderen Verkehrsteilnehmer. ",
-                  "coding": "03"
-                },
-                {
-                  "label": "4.\tIch habe schon einmal Drogen (Tabletten, Haschisch oder \"ähnliches\") konsumiert. ",
-                  "coding": "04"
-                },
-                {
-                  "label": "5.\tIch akzeptiere alle anderen Meinungen, auch wenn sie mit meiner eigenen nicht übereinstimmen. ",
-                  "coding": "05"
-                },
-                {
-                  "label": "6.\tMeine Wut oder schlechte Laune lasse ich hin und wieder an unschuldigen oder schwächeren Leuten aus. ",
-                  "coding": "06"
-                },
-                {
-                  "label": "7.\tIch habe schon einmal jemanden ausgenutzt oder übers Ohr gehauen. ",
-                  "coding": "07"
-                },
-                {
-                  "label": "8.\tIn einem Gespräch lasse ich den anderen stets ausreden und höre ihm aufmerksam zu. ",
-                  "coding": "08"
-                },
-                {
-                  "label": "9.\tIch zögere niemals, jemandem in einer Notlage beizustehen. ",
-                  "coding": "09"
-                },
-                {
-                  "label": "10.\tWenn ich etwas versprochen habe, halte ich es ohne Wenn und Aber.",
-                  "coding": "10"
-                },
-                {
-                  "label": "11.\tIch lästere gelegentlich über andere hinter deren Rücken.",
-                  "coding": "11"
-                },
-                {
-                  "label": "12.\tIch würde niemals auf Kosten der Allgemeinheit leben. ",
-                  "coding": "12"
-                },
-                {
-                  "label": "13.\tIch bleibe immer freundlich und zuvorkommend anderen Leuten gegenüber, auch wenn ich selbst gestreßt bin. ",
-                  "coding": "13"
-                },
-                {
-                  "label": "14.\tIm Streit bleibe ich stets sachlich und objektiv. ",
-                  "coding": "14"
-                },
-                {
-                  "label": "15.\tIch habe schon einmal geliehene Sachen nicht zurückgegeben. ",
-                  "coding": "15"
-                },
-                {
-                  "label": "16.\tIch ernähre mich stets gesund. ",
-                  "coding": "16"
-                },
-                {
-                  "label": "17.\tManchmal helfe ich nur, weil ich eine Gegenleistung erwarte. ",
-                  "coding": "17"
-                }
-              ],
-              "width": "7",
-              "anchors": [
-                "Stimme überhaupt nicht zu",
-                "Stimme nicht zu",
-                "Stimme eher nicht zu",
-                "Neutral",
-                "Stimme eher zu",
-                "Stimme zu",
-                "Stimme vollkommen zu"
-              ],
-              "label": "Bitte gib an, inwieweit du den Aussagen zustimmst oder nicht zustimmst, auf einer Skala von 1 (Stimme überhaupt nicht zu) bis 7 (Stimme völlig zu).",
-              "name": "SDS"
-            }
-          ],
-          "scrollTop": true,
-          "submitButtonText": "Weiter",
-          "submitButtonPosition": "right",
-          "files": {},
-          "responses": {
-            "": ""
-          },
-          "parameters": {},
-          "messageHandlers": {},
-          "title": "SDS"
-        },
-        {
-          "type": "lab.html.Page",
-          "items": [
-            {
-              "required": true,
-              "type": "likert",
-              "items": [
-                {
-                  "label": "1.\tViele Frauen haben eine Art von Ehrlichkeit, die nur wenige Männer besitzen.",
-                  "coding": "01"
-                },
-                {
-                  "label": "2.\tFrauen sollten von Männern umsorgt und beschützt werden. ",
-                  "coding": "02"
-                },
-                {
-                  "label": "3.\tFrauen versuchen, Macht zu erlangen, indem sie Männer immer mehr beherrschen. ",
-                  "coding": "03"
-                },
-                {
-                  "label": "4.\tJeder Mann sollte eine Frau haben, die er wirklich liebt. ",
-                  "coding": "04"
-                },
-                {
-                  "label": "5.\tMänner sind ohne Frauen unvollkommen. ",
-                  "coding": "05"
-                },
-                {
-                  "label": "6.\tFrauen übertreiben Probleme, die sie am Arbeitsplatz haben. ",
-                  "coding": "06"
-                },
-                {
-                  "label": "7.\tHat eine Frau erst mal einen Mann „rumgekriegt“, dann versucht sie, ihn an die kurze Leine zu legen.",
-                  "coding": "07"
-                },
-                {
-                  "label": "8.\tWenn Frauen in einem fairen Wettbewerb gegenüber Männern den Kürzeren ziehen, behaupten sie gerne, sie seien diskriminiert worden. ",
-                  "coding": "08"
-                },
-                {
-                  "label": "9.\tViele Frauen haben Spaß daran, mit Männern zu „spielen“, indem sie sich zuerst verführerisch geben, dann aber die Annäherungsversuche der Männer zurückweisen.",
-                  "coding": "09"
-                },
-                {
-                  "label": "10.\tVerglichen mit Männern haben Frauen ein besseres moralisches Empfinden.",
-                  "coding": "10"
-                },
-                {
-                  "label": "11.\tEin Mann sollte bereit sein, sein eigenes Wohlergehen zu opfern, um für seine Frau sorgen zu können. ",
-                  "coding": "11"
-                },
-                {
-                  "label": "12.\tFeministinnen stellen an Männer vollkommen berechtigte Forderungen. ",
-                  "coding": "12"
-                }
-              ],
-              "width": "7",
-              "anchors": [
-                "Stimme überhaupt nicht zu",
-                "Stimme nicht zu",
-                "Stimme eher nicht zu",
-                "Neutral",
-                "Stimme eher zu",
-                "Stimme zu",
-                "Stimme völlig zu"
-              ],
-              "label": "Im Folgenden siehst du eine Reihe von Aussagen zu Männern und Frauen sowie deren Beziehungen in der heutigen Gesellschaft. Bitte gib für jede Aussage an, inwieweit du dieser Aussage zustimmst oder nicht zustimmst, und zwar auf einer Skala von 1 (stimme überhaupt nicht zu) bis 7 (stimme völlig zu).",
-              "name": "ASI"
-            }
-          ],
-          "scrollTop": true,
-          "submitButtonText": "Weiter →",
-          "submitButtonPosition": "right",
-          "files": {},
-          "responses": {
-            "": ""
-          },
-          "parameters": {},
-          "messageHandlers": {},
-          "title": "ASI"
-        },
-        {
-          "type": "lab.html.Page",
-          "items": [
-            {
-              "required": true,
-              "type": "likert",
-              "items": [
-                {
-                  "label": "Wenn ich Personen oder Objekten Geschlechter zuweise, sind meine Gedanken häufig widersprüchlich.",
-                  "coding": "1"
-                },
-                {
-                  "label": "Bezüglich Geschlechterattribution gegenüber Personen oder Objekten empfinde\u002Ferlebe ich Konfliktzustände.",
-                  "coding": "2"
-                },
-                {
-                  "label": "Manchmal fühlt es sich fast so an, als würde ich körperlich von Seite zu Seite wechseln, wenn ich darüber nachdenke, Personen oder Objekten Geschlechter zuzuweisen.",
-                  "coding": "3"
-                },
-                {
-                  "label": "Wenn ich an Geschlechterattribution gegenüber Personen oder Objekten denke, erlebe ich oft einen Konflikt zwischen meinen Gedanken und Gefühlen.",
-                  "coding": "4"
-                }
-              ],
-              "width": "7",
-              "anchors": [
-                "Stimme überhaupt nicht zu",
-                "Stimme nicht zu",
-                "Stimme eher nicht zu",
-                "Neutral",
-                "Stimme eher zu",
-                "Stimme zu",
-                "Stimme völlig zu"
-              ],
-              "label": "Gib bitte an, wie stark du den folgenden Aussagen zustimmst.",
-              "name": "TAS_adapt"
-            }
-          ],
-          "scrollTop": true,
-          "submitButtonText": "Weiter →",
-          "submitButtonPosition": "right",
-          "files": {},
-          "responses": {
-            "": ""
-          },
-          "parameters": {},
-          "messageHandlers": {},
-          "title": "TAS_explorativ"
-        }
-      ]
-    },
-    {
-      "type": "lab.html.Page",
-      "items": [
-        {
-          "required": true,
-          "type": "radio",
-          "label": "Worum ging es in dieser Studie?  ",
-          "options": [
-            {
-              "label": "Gender Attribution gegenüber Roboter",
-              "coding": "Roboter"
-            },
-            {
-              "label": "Gender Attribution gegenüber berühmten Menschen",
-              "coding": "Menschen"
-            },
-            {
-              "label": "Gender Attribution gegenüber Tieren",
-              "coding": "Tiere"
-            }
-          ],
-          "name": "AC_Thema"
-        }
-      ],
-      "scrollTop": true,
-      "submitButtonText": "Weiter",
-      "submitButtonPosition": "right",
-      "files": {},
-      "responses": {
-        "": ""
-      },
-      "parameters": {},
-      "messageHandlers": {},
-      "title": "Attention Check"
-    },
-    {
-      "type": "lab.html.Page",
-      "items": [
-        {
-          "required": true,
-          "type": "radio",
-          "label": "Sollen wir deine Daten in der Auswertung verwenden?",
-          "options": [
-            {
-              "label": "Ja, ich habe aufmerksam mitgemacht. ",
-              "coding": "1"
-            },
-            {
-              "label": "Ja, ich habe größtenteils aufmerksam mitgemacht. ",
-              "coding": "2"
-            },
-            {
-              "label": "Nein, ich habe mich nur durchgeklickt. ",
-              "coding": "3"
-            }
-          ],
-          "name": "AC_Datenverwendung"
-        }
-      ],
-      "scrollTop": true,
-      "submitButtonText": "Weiter",
-      "submitButtonPosition": "right",
-      "files": {},
-      "responses": {
-        "": ""
-      },
-      "parameters": {},
-      "messageHandlers": {},
-      "title": "Attention Check 2"
-    },
-    {
-      "type": "lab.html.Page",
-      "items": [
-        {
-          "type": "text",
-          "title": "Vielen Dank für Deine Teilnahme an unserer Umfrage! ",
-          "content": "In dieser Studie haben wir Gender Attribution gegenüber Robotern erforscht. Dazu haben wir dich nach deiner maskulinen und femininen Bewertung von Robotern befragt und wie angekündigt die Mausbewegung während der Kategorisierung als Indikator des einstellungsbezogenen Konfliktes gemessen. \u003Cbr\u003E\nAls Dank für deine Teilnahme erhältst du bei Bedarf X VP Stunden.\u003Cbr\u003E\nAlternativ hast du die Möglichkeit, freiwillig an der Verlosung von ?€ BestChoice-Gutscheinen teilzunehmen. Dazu klicke bitte \u003Ca href=\"https:\u002F\u002Fwww.soscisurvey.de\u002FWeiterleitung_GenderStudie\u002F\"\n   target=\"_blank\"\n   rel=\"noopener noreferrer\"\u003E\n  hier\u003C\u002Fa\u003E.\n\u003C\u002Fp\u003E\n\u003C\u002Fa\u003EDeine Daten werden streng vertraulich behandelt und von deinen bisherigen Antworten getrennt erfasst, d.h. die Studie selbst ist anonym. Für die getrennte Erfassung der SONA-ID sowie der E-Mail für die Verlosung liegt eine Datenschutzerklärung in der Weiterleitung bereit.\n"
-        },
-        {
-          "required": false,
-          "type": "input",
-          "label": "Hast Du noch Anmerkungen oder hattest Du technische Probleme beim Bearbeiten der Studie?",
-          "name": "Anmerkungen"
-        },
-        {
-          "required": true,
-          "type": "text",
-          "title": "Die Studie ist hiermit beendet."
-        }
-      ],
-      "scrollTop": true,
-      "submitButtonText": "Weiter",
-      "submitButtonPosition": "right",
-      "files": {},
-      "responses": {
-        "": ""
-      },
-      "parameters": {},
-      "messageHandlers": {},
-      "title": "Ende"
     }
   ]
 })
