@@ -32,7 +32,14 @@ const study = lab.util.fromObject({
       "messageHandlers": {},
       "title": "Main study",
       "shuffle": true,
-      "plugins": [],
+      "plugins": [
+        {
+          "type": "fullscreen",
+          "message": "",
+          "hint": "",
+          "path": "lab.plugins.Fullscreen"
+        }
+      ],
       "content": [
         {
           "type": "lab.flow.Sequence",
